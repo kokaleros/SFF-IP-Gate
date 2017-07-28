@@ -1,6 +1,6 @@
 <?php
 
-require 'language_class.php';
+require 'classes/language_class.php';
 
 $lang = new Language();
 
