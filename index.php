@@ -1,6 +1,7 @@
 <?php
 
 require 'classes/language_class.php';
+require 'classes/sessions_class.php';
 
 $lang = new Language();
 
